@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+~$*
+*.tmp
+*.xlsx
+*.pbix
+data/
+cleaned_data/
